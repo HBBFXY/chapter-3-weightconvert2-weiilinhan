@@ -1,4 +1,4 @@
-begin_weight=input()
+begin_weight=eval(input()
 for i in range(10):
     earth_weight=begin_weight+0.5*(i+1)
     moon_weight=earth_weight*0.165
