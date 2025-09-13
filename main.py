@@ -1,4 +1,4 @@
-weight = float(input('请输入你当前在地球上的体重:'))
+weight = float(input())
 for year in range(1,11):
     earth weight = weight + 0.5 * year
     moon weight = earth weight * 0.165	
